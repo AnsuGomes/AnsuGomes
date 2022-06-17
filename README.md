@@ -3,7 +3,7 @@
 - 💼 Sou trainee-DEV na Fitbank
 - 📚 Acadêmico em Ciência da Computação
 
-<div align="right">
+<div align="left">
   <a href="https://github.com/AnsuGomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersongomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersongomes&layout=compact&langs_count=7&theme=dracula"/>
