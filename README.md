@@ -1,4 +1,4 @@
-## Oiii eu sou o Anderson Gomes!
+## Hi folks! I'm Anderson Gomes!
 
 - 💼 Sou trainee-DEV na Fitbank
 - 📚 Acadêmico em Ciência da Computação
