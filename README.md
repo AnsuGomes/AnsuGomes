@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Hi folks! I'm Anderson Gomes!<br><br>- 💼 Sou trainee-DEV na Fitbank.<br>- 📚 Acadêmico em Ciência da Computação.
 
 
