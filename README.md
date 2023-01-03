@@ -1,4 +1,4 @@
-## Hi folks! I'm Anderson Gomes!<br><br>- 💼 I'm Junior Developer Software at Fitbank.<br>- 📚 Acadêmico em Ciência da Computação.
+## Hi folks! I'm Anderson Gomes!<br><br>- 💼 I'm Junior Software Developer at Fitbank.<br>- 📚 Acadêmico em Ciência da Computação.
 
 <div> 
  <a href="https://instagram.com/ansu_gomess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
