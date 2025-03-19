@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,folks!+My+name+is+Anderson+Gomes.)](https://git.io/typing-svg)
 
 
- 💼 I'm Junior Software Developer at Fitbank.<br> 📚 Systems Analysis and Development.
+ 💼 I'm Junior Software Developer at Fitbank - DevSecOps.<br> 📚 Systems Analysis and Development.
 
 <div> 
  <a href="https://instagram.com/ansu_gomess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
